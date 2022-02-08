@@ -1,3 +1,6 @@
+I'm well on here known as czpetti98. I am giving this cms script a shot on my website. This entire script is written in a different language. (I am english).
+I will be working to convert this entire script into english. plus modifing code or whatever else as necessary.
+
 ### 使用须知
 
 - **程序安装需要使用 "网址/index.php/?s=/install" 的安装路径,此时后台地址"网址/index.php?s=/admin"** 
