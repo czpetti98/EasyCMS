@@ -1,14 +1,14 @@
 <?php
 	header('content-type:text/html;charset=utf-8');
-	//1确认应用名称App
+	//Confirm the app name
 	define('APP_NAME','App');
-	//2确定应用路径
-	//App后必须加/,否则创建目录路径混乱
+	//2 Determine the application path
+//You must add / after App, otherwise the directory path will be confused
 	define('APP_PATH','./App/');
-	//定义缓存文件路径
+	//Define the cache file path
 	define('HTML_PATH','./Html/');
-	//3.开启调试模式
+	//3.enable debug mode
 	define('APP_DEBUG',true);
-	//3应用核心文件(区分大小写，windows不需要区分，但是linux需要)
+	//3Application core files (case sensirive, windows do not need to distinguish, but linux does)
 	require './ThinkPHP/ThinkPHP.php';
 
