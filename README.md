@@ -1,18 +1,15 @@
-I'm well on here known as czpetti98. I am giving this cms script a shot on my website. This entire script is written in a different language. (I am english).
-I will be working to convert this entire script into english. plus modifing code or whatever else as necessary.
+### usage notice
 
-### 使用须知
+- **Program installation needs to use the installation path of "URL/index.php/?s=/install", at this time the background address is "URL/index.php?s=/admin"**
 
-- **程序安装需要使用 "网址/index.php/?s=/install" 的安装路径,此时后台地址"网址/index.php?s=/admin"** 
+- **The test data can be restored and viewed in the database recovery under the background system management after installation. The table prefix of the test data is the default easy_. If the default table prefix is not directly used during installation, the test data cannot be restored directly in the background. Test The default background account password of the data is admin**
 
-- **测试数据在安装后进入后台系统管理下数据库恢复里可以恢复查看，测试数据的表前缀是默认的easy_，如果在安装时不是直接使用默认的表前缀则不能后台直接恢复测试数据，测试数据默认后台账号密码都是admin** 
+- **It is recommended to modify the APP_DEBUG under index.php to FALSE for official use**
 
-- **正式使用时建议修改index.php下的APP_DEBUG为FALSE** 
+- **Online effect: http://easycms.chenjie.info/**
 
-- **在线效果：http://easycms.chenjie.info/**
-
->陈捷编写
+>Written by Chen Jie
 >
->联系邮箱 916402586@qq.com
+>Contact Email 916402586@qq.com
 >
->QQ 916402586（如有紧急问题请加我QQ，加我请注明信息）
+>QQ 916402586 (if you have any urgent questions, please add me QQ, and please indicate the information)
